@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>跳转链接示例</title>
+</head>
+<body>
+
+    <h1>跳转链接示例</h1>
+
+    <p>点击以下链接可以尝试跳转到支付宝或微信：</p>
+
+    <a href="alipay://test">跳转到支付宝</a>
+    <br><br>
+    <a href="weixin://test">跳转到微信</a>
+
+</body>
+</html>
